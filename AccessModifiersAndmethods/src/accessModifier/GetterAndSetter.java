@@ -3,8 +3,7 @@ package accessModifier;
 public class GetterAndSetter {
 
 	public static void main(String[] args) {
-		//getter and setter allows the private class to be used in a different class.
-		
+		//getter and setter allows the private "variable" to be used in a different class.
 		
 		GetAndSet obj = new GetAndSet();
 		obj.setName("rubina");

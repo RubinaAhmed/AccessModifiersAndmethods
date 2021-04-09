@@ -25,6 +25,6 @@ public class Mixed {
 	public static void main(String[] args) {
 		staticMethod();
 		Mixed m1 = new Mixed();
-		m1.instanceMethod();//m1 is the new instanceMethod.
+		m1.instanceMethod();//m1 is the reference variable.
 	}
 }
